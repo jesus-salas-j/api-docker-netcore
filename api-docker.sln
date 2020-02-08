@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-docker", "api-docker\api-docker.csproj", "{20C7E630-99F9-4155-A8CD-EDDC5C29862F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-docker-integration-tests", "api-docker-integration-tests\api-docker-integration-tests.csproj", "{23239F43-4606-4F15-9EE3-20DE6D952B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C7E630-99F9-4155-A8CD-EDDC5C29862F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C7E630-99F9-4155-A8CD-EDDC5C29862F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C7E630-99F9-4155-A8CD-EDDC5C29862F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C7E630-99F9-4155-A8CD-EDDC5C29862F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23239F43-4606-4F15-9EE3-20DE6D952B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23239F43-4606-4F15-9EE3-20DE6D952B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23239F43-4606-4F15-9EE3-20DE6D952B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23239F43-4606-4F15-9EE3-20DE6D952B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
